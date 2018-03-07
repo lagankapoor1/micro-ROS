@@ -1,9 +1,4 @@
-[micro-ROS](https://cordis.europa.eu/project/rcn/213167_en.html) aims to enable
-European companies to rapidly deliver robotic products integrating highly resource-constrained
-devices, to contribute to the faster growth of a competitive industry of small robots and
-robot components manufacturers. In particular, micro-ROS aims to bring resource constrained devices (micro-controllers)
-to the Robot Operating System (ROS) ecosystem. In particular, it aims to make
-micro-controllers first class participants of the ROS 2 environment.
+[micro-ROS](https://cordis.europa.eu/project/rcn/213167_en.html) puts ROS2 onto microcontrollers, making them first class participants of the ROS 2 environment.
 
 
 The micro-ROS architecture is being built with software modularity in mind and is
