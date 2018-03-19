@@ -1,6 +1,8 @@
 [micro-ROS](https://cordis.europa.eu/project/rcn/213167_en.html) puts ROS2 onto microcontrollers, making them first class participants of the ROS 2 environment.
 
-The micro-ROS architecture is a work in progress, and while we do have some ideas, the main thing is that it's modular and built from the following ingredients:
+This is an Open Source project, and you can collaborate both here (through issues and PR's, as usual) and on ROS Discourse, of course.
+
+The micro-ROS architecture is a work in progress, and while we do have some ideas, for now, lets just say that it's modular and built from the following ingredients:
   
  - A Real-Time Operating System (RTOS). This includes at least NuttX, and possibly others
  - An embedded middleware, at least micro-RTPS (a.k.a. DDS-XRCE), maybe others
