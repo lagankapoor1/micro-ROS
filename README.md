@@ -11,7 +11,7 @@ We'll update this README as we proceed. For now, you can check out our work on:
 The micro-ROS architecture is a work in progress, and while we do have some ideas, for now, lets just say that it's modular and built from the following ingredients:
 
  - A Real-Time Operating System (RTOS). This includes at least NuttX, and possibly others.
- - An embedded communications middleware, at least micro-RTPS.
+ - An embedded communications middleware, at least [micro-RTPS](https://github.com/eProsima/micro-RTPS)
  - The [ROS client library](http://github.com/microROS/rcl)
 
 A first approach (yet not final) of the architecture is represented below:
