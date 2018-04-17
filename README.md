@@ -22,7 +22,7 @@ A first approach (yet not final) of the architecture is represented below:
 +-------------------------------------------------------------+
 |                   ROS client library                        |
 +-------------------------------------------------------------+
-|             micro-ROS middleware interface        |
+|             micro-ROS middleware interface                  |
 +-------------------+---------------------+-------------------+
 |    middleware 1   |     middleware 2    |   middleware 3    |
 |    (micro-RTPS)   |                     |                   |
